@@ -1,0 +1,6 @@
+body {
+  background-image: linear-gradient(to right, #8fd8d8, #4ac29a);
+  }
+  #grad {
+  background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
